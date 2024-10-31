@@ -1,7 +1,7 @@
 """Эта программа складывает два числа."""
 
 
-def add(local_num1, local_num2):
+def add(local_num1, local_num2) -> int:
     """Функция складывает два числа."""
     return local_num1 + local_num2
 
